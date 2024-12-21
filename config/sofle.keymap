@@ -10,7 +10,7 @@
 
 #define BASE 0
 #define RAISE 1
-#define STARCRAFT 1
+#define STARCRAFT 2
 
 / {
     // Activate ADJUST layer by pressing raise and lower
